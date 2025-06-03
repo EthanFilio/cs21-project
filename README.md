@@ -1,2 +1,2 @@
 # cs21-project
-Python code base for A.Y. 24-25 CS 21 project
+This is the official code base for CS 21.24 project: Arch-242
